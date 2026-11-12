@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **NFID Access Attestation Data Model (2025 draft, superseded)**
+>
+> This repository holds a 2025 working draft that described an access attestation as a W3C Verifiable Credential with did:nfid identifiers. The Foundation's position has since changed. Its 2026 paper, *Beyond Credentials: A Trust Framework for Identity-Based Physical Access*, specifies the access attestation envelope as a presentation-time record signed with COSE_Sign1, not a credential and not a credential data model, and consumes government-issued credentials on their own trust paths. This draft is kept as a historical record and is not maintained. For the Foundation's current specifications, see https://nfid.foundation/specifications.
+
+---
+
 **NFID Access Attestation Data Model**
 
 This repository contains the official specification for the NFID Foundation's Verifiable Credential (VC) schema data model, specifically designed for physical access control.
